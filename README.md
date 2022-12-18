@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nisha Rai</h1>
 <h3 align="center">A passionate Fullstack Web devlopment enthusiast from India.</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1MSVKRopegDjYONwdF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisharai&label=Profile%20views&color=0e75b6&style=flat" alt="nisharai" /> </p>
 
 - 🔭 I’m currently studying **Computer Science Engineering**
