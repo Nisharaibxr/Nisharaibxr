@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Nisha Rai</h1>
 <h3 align="center">A passionate Fullstack Web devlopment enthusiast from India.</h3>
 
+<img aligh="right" alt="Coding" width="400" src="https://giphy.com/embed/1MSVKRopegDjYONwdF">
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1MSVKRopegDjYONwdF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisharai&label=Profile%20views&color=0e75b6&style=flat" alt="nisharai" /> </p>
 
 - 🔭 I’m currently studying **Computer Science Engineering**
