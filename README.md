@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisharaibxr&label=Profile%20views&color=0e75b6&style=flat" alt="nisharaibxr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisharaibxr" alt="nisharaibxr" /></a> </p>
-
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Html,Css,Javascript,Bootstrap**
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisharaibxr&show_icons=true&locale=en" alt="nisharaibxr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisharaibxr&" alt="nisharaibxr" /></p>
+
