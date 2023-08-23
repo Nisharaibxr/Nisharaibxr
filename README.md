@@ -1,47 +1,78 @@
+![Banner](https://previews.123rf.com/images/yusufdemirci/yusufdemirci2001/yusufdemirci200100167/138777341-banner-with-little-kid-using-technology.jpg)
+
 # Hi 👋, I'm Nisha Rai
 
-![Nisha Rai](https://your-image-url.com/image1.jpg)
+### 🚀 A passionate Fullstack Web Development enthusiast
 
-### A Passionate Fullstack Web Development Enthusiast
+![Coding](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
+
+---
+
+### 🌟 Quick Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nisharaibxr&label=Profile%20views&color=0e75b6&style=flat)
-
-- 🌱 **Currently Learning:** Angular
-- 💬 **Let's Talk About:** HTML, CSS, JavaScript, Bootstrap
-- 📫 **Reach Me At:** nisharaibxr002100@gmail.com
-- ⚡ **Fun Fact:** I consider myself moody!
-- 🎖 **GitHub Status:** A+
+![GitHub Status](https://img.shields.io/badge/GitHub%20Status-A%2B-brightgreen)
 
 ---
 
-## Connect with Me
+### 🌱 Currently Learning
 
-![Linkedin Logo](https://your-image-url.com/image2.jpg)
-[LinkedIn](https://www.linkedin.com/in/nisha-rai-0878241b5/)
+- Angular
 
 ---
 
-## Skills
+### 💬 Let's Talk About
 
-### Languages
 - HTML
 - CSS
 - JavaScript
-- SCSS
-- C++
+- Bootstrap
+
+---
+
+### 📫 How to Reach Me
+
+- Email: [nisharaibxr002100@gmail.com](mailto:nisharaibxr002100@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+- I consider myself moody!
+
+---
+
+### 📞 Connect With Me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/nisha-rai-0878241b5/)
+
+---
+
+### 💼 Skills
+
+#### Languages
+
+- HTML
+- CSS
+- JavaScript
 - Java
 - PHP
+- C++
+- SCSS
 
-### Frameworks/Libraries
+#### Frameworks and Libraries
+
 - React
 - Node
 - Angular
 - Laravel
 
-### Data Structures & Algorithms
+#### Data Structures and Algorithms
+
 - DSA
 
-### Tools
+#### Tools
+
 - GitHub
 - Visual Studio
 - WordPress
@@ -49,12 +80,8 @@
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
+### 📊 GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nisharaibxr&show_icons=true&locale=en&layout=compact)
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisharaibxr&show_icons=true&locale=en)
-![Nisha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nisharaibxr&)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisharaibxr&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nisharaibxr)
