@@ -1,5 +1,7 @@
 # Hi 👋, I'm Nisha Rai
 
+![Nisha Rai](https://your-image-url.com/image1.jpg)
+
 ### A Passionate Fullstack Web Development Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nisharaibxr&label=Profile%20views&color=0e75b6&style=flat)
@@ -13,7 +15,9 @@
 ---
 
 ## Connect with Me
-[![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/nisha-rai-0878241b5/) 
+
+![Linkedin Logo](https://your-image-url.com/image2.jpg)
+[LinkedIn](https://www.linkedin.com/in/nisha-rai-0878241b5/)
 
 ---
 
@@ -46,6 +50,7 @@
 ---
 
 ## GitHub Statistics
+
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nisharaibxr&show_icons=true&locale=en&layout=compact)
